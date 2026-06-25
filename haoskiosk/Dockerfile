@@ -43,6 +43,9 @@ RUN apk update && apk add --no-cache \
      onboard \
      unclutter-xfixes \
      ttf-dejavu \
+     font-noto \
+     font-noto-cjk \
+     font-noto-emoji \
 ### Linux utils
      bash \
      util-linux \
